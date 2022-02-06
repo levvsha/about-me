@@ -87,5 +87,8 @@
     "react-router-dom": "reactRedux",
     "gradient": "other",
     "css3": "other",
-    "loops": "basicConcept"
+    "loops": "basicConcept",
+    "highcharts": "d3dataviz",
+    "legend": "other",
+    "zooming": "other"
 }
