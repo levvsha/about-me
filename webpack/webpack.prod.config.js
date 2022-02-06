@@ -63,6 +63,7 @@ module.exports = {
     new HtmlWebpackPlugin({
       filename: '../docs/index.html',
       template: './webpack/index.tpl.ejs',
+      minify: false,
     }),
     new ExtractTextPlugin({
       filename: '[name].[hash].css'
